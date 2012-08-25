@@ -126,7 +126,7 @@ I18n.days                   String        '%n% days ago'
 ```
 
 
-Internacionalization
+Internationalization
 --------------------
 * The folder ```I18n``` have some translations, feels free to send other translations (:
 * Just replace the relative numbers with ```%n%```
