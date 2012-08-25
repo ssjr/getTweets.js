@@ -29,7 +29,7 @@ Basic usage
   });
 </script>
 ...
-<div id="twitter">
+<div id="my_element">
   This content shows if the Javascript is OFF or remove_content = false (default).
 </div>
 ...
